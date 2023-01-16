@@ -7,6 +7,7 @@ Simple Android App to search for movies and TV Shows, and manage watch lists and
 - **Architecture** : [MVVM and Data Binding](https://developer.android.com/jetpack/guide)
 - **Image Loading** : [Glide](https://github.com/bumptech/glide)
 - **Navigation** : [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
+- **API**: [TMDB](https://www.themoviedb.org/)
 - **Network Operations** : [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 - **Design** : [Material Design](https://material.io)
 ## Screenshots
