@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title="Add to Favorite"
+        android:contentDescription="favorite"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/save_to_mylist"
+        android:icon="@drawable/ic_baseline_bookmark_border_24"
+        android:title="Add to my list"
+        android:contentDescription="Mylist"
+        app:showAsAction="ifRoom" />
+</menu>

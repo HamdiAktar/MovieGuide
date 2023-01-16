@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tv Guide</string>
+    <string name="searchPlaceHolder">Search For TV shows</string>
+    <string name="apiEndPointSearch">https://api.themoviedb.org/3/search/tv?api_key={apiKey}&amp;query={query}&amp;page={pageNo}</string>
+    <string name="apiEndPointSearchDetails">https://api.themoviedb.org/3/tv/{item_id}?api_key={apiKey}&amp;language=en-US</string>
+    <string name="apiEndPointSearchCredit">https://api.themoviedb.org/3/tv/{item_id}/credits?api_key={apiKey}&amp;language=en-US</string>
+
+</resources>

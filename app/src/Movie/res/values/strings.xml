@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Guide</string>
+    <string name="searchPlaceHolder">Search For Movies</string>
+    <string name="apiEndPointSearch">https://api.themoviedb.org/3/search/movie?api_key={apiKey}&amp;query={query}&amp;page={pageNo}</string>
+    <string name="apiEndPointSearchDetails">https://api.themoviedb.org/3/movie/{item_id}?api_key={apiKey}&amp;language=en-US</string>
+    <string name="apiEndPointSearchCredit">https://api.themoviedb.org/3/movie/{item_id}/credits?api_key={apiKey}&amp;language=en-US</string>
+</resources>
